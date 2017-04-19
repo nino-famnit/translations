@@ -18,7 +18,7 @@
 # ператвараюцца ў вялікія. Сімвалы "*" павінны быць выдалены з качатковага
 # радка.
 #
-# Example:
+# Прыклад:
 #
 #     >>> emphasise_marked('Breaking *news* on Donald *Trump*')
 #     'Breaking NEWS on Donald TRUMP'
@@ -30,7 +30,7 @@
 # Напішіце функцію is_palindrome(s) якая вяртае True калі радок s
 # з'яўляецца паліндромам і False калі ён не з'яўляецца.
 #
-# Example:
+# Прыклад:
 #
 #     >>> is_palindrome('neradodaren')
 #     True
