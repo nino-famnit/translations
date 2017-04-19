@@ -41,11 +41,10 @@
 
 
 ##########################################################################
-# We say that a string is almost a palindrome if we have to erase exactly
-# one character from it to obtain a palindrome. The word kolo is almost a
-# palindrome, because we only need to erase the letter k to obtain olo.
+# Назавем радок амаль паліндромам калі можна выдаліць дакладна адну літару
+# каб атрымаўся паліндром. Слова kolo з'яўляецца амаль паліндромам, таму
+# што можна выдаліць літару k каб палучыць olo.
 #
-Назавем радок амаль паліндромам калі 
-# Write a function almost_palindrome(s) that returns True if the string s
-# is almost a palindrome.
+# Напішіце функцію almost_palindrome(s) якая вяртае True калі радок s
+# з'яўляецца амаль паліндромам.
 #
