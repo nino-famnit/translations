@@ -1,0 +1,79 @@
+##########################################################################
+# Shkruaje nje funksion emphasise(title) qe merr nje fjali titull dhe 
+# rikthen nje fjali te re ku titulli eshte i theksuar, me tjera fjala,  
+# te gjitha shkronjat duhet te jene ne me te mdhaja dhe te ndara me  
+# hapsire. Hapesirat ne titull duhet te trajtohen ne menyre te njejte si 
+# karakteret tjera (ato behen tri hapsira).
+# 
+# Shembull:
+#
+#     >>> emphasise('Breaking news')
+#     'B R E A K I N G   N E W S'
+##########################################################################
+
+
+
+##########################################################################
+# Shkruaje nje funksion emphasise_marked(title) qe kthen nje fjali te re 
+# ne te cilen vetem shkronjat qe jane ne mes karakterit * ne titullin 
+# origjinal konvertohen ne shkronja te mdhaja. Karakteret * duhet larguar
+# prej fjalise.
+#
+# Shembull:
+#
+#     >>> emphasise_marked('Breaking *news* on Donald *Trump*')
+#     'Breaking NEWS on Donald TRUMP'
+##########################################################################
+
+
+
+##########################################################################
+# Shkruaje nje funksion is_palindrome(s) qe rikthen True nese fjalia s  
+# eshte palindrom dhe False nese jo.
+#
+# Shembull:
+#
+#     >>> is_palindrome('neradodaren')
+#     True
+#     >>> is_palindrome('math')
+#     False
+##########################################################################
+
+
+
+##########################################################################
+# Pothuajse palindrome quajme fjaline ne te cilen duhet te largojme  
+# saj per te fituar palindrome. Fjala kolo eshte pothuajse palindrom
+# , sepse nese largojme k fitojme olo.
+#
+# Shkruaje nje funksion almost_palindrome(s) qe rikthen True nese fjalia s
+# eshte pothuajse palindrom.
+#
+# Shembull:
+#
+#     >>> almost_palindrome('kolo')
+#     True
+#     >>> almost_palindrome('famnit')
+#     False
+##########################################################################
+
+
+
+##########################################################################
+# Pseudo-palindrom quajme fjaline s e cila ka nevoje tju shtohet ose tju
+# largohet nje shkronje per te fituar palindrom. Shembull:
+#
+# * robot (zhvendose t me r)
+# * jana (shto shkronjen j ne fund)
+#
+# Shkruaje nje funksion pseudo_palindrome(s) qe rikthen True vetem nese
+# fjalia s eshte pseudo-palindrom.
+#
+# Shembull:
+#
+#     >>> pseudo_palindrome('robot')
+#     True
+#     >>> pseudo_palindrome('famnit')
+##########################################################################
+
+
