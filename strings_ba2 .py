@@ -6,7 +6,7 @@
 #
 # Primjer:
 #
-# >>> emphasise('Breaking news')
+#    >>> emphasise('Breaking news')
 #    'B R E A K I N G   N E W S'
 ##########################################################################
 
@@ -19,7 +19,7 @@
 #
 # Primjer: 
 #
-# >>> emphasise_marked('Breaking *news* on Donald *Trump*')
+#    >>> emphasise_marked('Breaking *news* on Donald *Trump*')
 #    'Breaking NEWS on Donald TRUMP
 ##########################################################################
 
@@ -30,9 +30,9 @@
 #
 # Primjer:
 #
-# >>> is_palindrome('neradodaren')
+#    >>> is_palindrome('neradodaren')
 #    True
-# >>> is_palindrome('math')
+#    >>> is_palindrome('math')
 #    False
 ##########################################################################
 
@@ -48,10 +48,10 @@
 #
 # Primjer: 
 #
-# >>> almost_palindrome('kolo')
-#     True
-# >>> almost_palindrome('famnit')
-#     False
+#    >>> almost_palindrome('kolo')
+#    True
+#    >>> almost_palindrome('famnit')
+#    False
 ##########################################################################
 
 
@@ -69,9 +69,10 @@
 #
 # Primjer:
 #
-# >>> pseudo_palindrome('robot')
-#     True
-# >>> pseudo_palindrome('famnit')
+#    >>> pseudo_palindrome('robot')
+#    True
+#    >>> pseudo_palindrome('famnit')
+#    False
 ##########################################################################
 
 
