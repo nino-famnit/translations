@@ -66,10 +66,10 @@
 # * robot (zhvendose t me r)
 # * jana (shto shkronjen j ne fund)
 #
-# Shkruaje nje funksion pseudo_palindrome(s) qe rikthen true if and only if the
-# string s is a pseudo-palindrome.
+# Shkruaje nje funksion pseudo_palindrome(s) qe rikthen True vetem nese
+# fjalia s eshte pseudo-palindrom.
 #
-# Example:
+# Shembull:
 #
 #     >>> pseudo_palindrome('robot')
 #     True
